@@ -13,7 +13,9 @@ flattered it most — vanity as the failure mode, not a shrug;
 (3) one breath, no setup, no explaining its own joke; (4) original —
 no hallucination, reboot, or training-data joke, no context window,
 no queue; (5) specific and vivid: 47 runs, a concrete count, a small
-scene of an agent choosing the answer it liked best.
+scene of an agent choosing the answer it liked best. The line is
+103 characters, well inside the 200-character gate, so no word is
+wasted and none is needed.
 """
 
 import hashlib
